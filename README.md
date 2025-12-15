@@ -1,10 +1,12 @@
 # Lennard-Jones-2D-Simulation
 Lennard Jones simulation of Molecular Dynamics featuring cell list implementation &amp; velocity verlet integration. Physics kernels compiled in Numba for runtime.
 
+(supposedly) Shareable link to jupyter notebook - https://datahub.berkeley.edu/hub/user-redirect/lab/tree/Final_Project/Tau%20Experiment.ipynb
+Download link - https://datahub.berkeley.edu/user/micahkeegan/files/Final_Project/Tau%20Experiment.ipynb?_xsrf=MnwxOjB8MTA6MTc2NTc2ODcyNXw1Ol94c3JmfDEzMjpaR0ZsTlRsaE1HWmhZbVV4TkRRd01tRTFaak15TmpWa01UUmhaVGRqTXpnNllXSmhaalU1TUdFME9UQTVOVGMwWmpCbU5tRmtPV0l3WldNME1XUXhNemN3TldKaFltTTNaVFZrWlRJek9XWmlOakkxWWpBM01UbGxZekU1WkRCaVpBPT18MDgyZmY4NDlkZjhhYjVhOTljMDQ0ZWIzNzhiNzM3MDAzZGU0NGU4M2YxNGNlOTAwZTZmYWM0YjA0M2UyMTNlNA
+
 Read ME from 1st cell:
 
-"""
-CELL 1: Read Me
+Cell 1: Read Me
 
 Cells 2-4 are initilization of simulator
 
@@ -54,4 +56,3 @@ Useful Notes:
     Then, run cell 16.
     Warning: before doing this, I recommend changing the up_to varible inside cell 16 to something lesser, like 8, and adjusting + observing runtime changes from there
     (You should see ~100x slowdown in the early stages)
-"""

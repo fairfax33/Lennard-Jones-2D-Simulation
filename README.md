@@ -1,5 +1,5 @@
 # Lennard-Jones-2D-Simulation
-Lennard Jones simulation of Molecular Dynamics featuring cell list implementation &amp; velocity verlet integration. Physics kernels compiled in Numba for runtime.
+Lennard Jones simulation of 2d molecular dynamics featuring cell list implementation &amp; velocity verlet integration. Physics kernels compiled in Numba for runtime.
 
 (supposedly) Shareable link to jupyter notebook - https://datahub.berkeley.edu/hub/user-redirect/lab/tree/Final_Project/Tau%20Experiment.ipynb
 
